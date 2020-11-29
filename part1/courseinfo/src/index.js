@@ -34,5 +34,3 @@ const App = () => {
 
 ReactDOM.render(<App />, document.getElementById('root'))
 
-//random comment
-//random
